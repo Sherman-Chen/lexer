@@ -3,8 +3,6 @@ package lexer2;
 import java.io.IOException;
 import java.util.Hashtable;
 
-import com.sun.org.apache.bcel.internal.generic.NEW;
-
 import lexer1.Num;
 import lexer1.Token;
 import lexer1.Word;
